@@ -1,12 +1,12 @@
 {
-  "name": "my-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "a basic app deploy",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Md Shams Raza",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
